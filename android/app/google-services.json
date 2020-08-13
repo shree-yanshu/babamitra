@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209787785510",
+    "firebase_url": "https://sakha-37143.firebaseio.com",
+    "project_id": "sakha-37143",
+    "storage_bucket": "sakha-37143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209787785510:android:d328021b5d3b8dc5cb71e7",
+        "android_client_info": {
+          "package_name": "com.example.babamitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209787785510-1hapkh4vdo75t6ksdu5mkkao4oqalv9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeffvQIaXZPTz5fjsYnsQC4Rl5LJdh2y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209787785510-1hapkh4vdo75t6ksdu5mkkao4oqalv9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
